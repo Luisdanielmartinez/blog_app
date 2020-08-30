@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680106427526",
+    "firebase_url": "https://final-react-blog.firebaseio.com",
+    "project_id": "final-react-blog",
+    "storage_bucket": "final-react-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680106427526:android:557e67f78a79ba774cbd07",
+        "android_client_info": {
+          "package_name": "com.example.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680106427526-499l0p47a3nk8cmcj5hiq4m27urne8m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFoUkAu8CtqNAcAtrUUvFrNkIV74BI9F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680106427526-499l0p47a3nk8cmcj5hiq4m27urne8m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
